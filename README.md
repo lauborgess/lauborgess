@@ -1,3 +1,4 @@
+👋 Hello, I am Laudicéia Borges.
 👀 I am interested in growing in the IT market.
 🌱 I have completed the programming course by Instituto Algar and Alura, and I am currently learning Cloud Computing (AWS) at Escola da Nuvem.
 💞️ I am looking to collaborate on software development projects.
